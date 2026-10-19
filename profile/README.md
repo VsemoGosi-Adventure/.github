@@ -39,6 +39,7 @@
 
 * 📄 Паспорт проекта и спецификация Use Cases
 * 🗂 Схема архитектуры (Excalidraw)
-* 🎨 Дизайн-макеты в Figma *(ссылка будет добавлена)*
-* 🗄 ERD-диаграмма базы данных *(В разработке)*
+* 🎨 [Дизайн-макеты в Figma](https://www.figma.com/design/bKFrm0tCaoFhiN6yWeIweu/Untitled?node-id=0-1&m=dev&t=CpExx1MRrHqNBRjm-1)
+* 🗄 [ERD-диаграмма базы данных](https://github.com/VsemoGosi-Adventure/docs/blob/main/database%20erd.md)
+* 💼 [Бизнес требования (BRD)](https://github.com/VsemoGosi-Adventure/docs/blob/main/Business%20Requirements%20Document.md)
 * 📑 Спецификация REST API и событий Redpanda *(в разработке)*
